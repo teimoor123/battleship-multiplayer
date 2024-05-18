@@ -1,0 +1,17 @@
+{
+  "name": "cps630",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/bin.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.1",
+    "ws": "^8.16.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
